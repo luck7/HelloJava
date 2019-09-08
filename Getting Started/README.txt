@@ -1,5 +1,3 @@
-# Getting Started with Google Guava
-
 This is the source code for the Getting Started with Google Guava book.
 
 You can use either Maven or Gradle to build this project:
