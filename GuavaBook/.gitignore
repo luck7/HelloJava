@@ -5,5 +5,8 @@
 build
 
 .vscode
+.settings
+.classpath
+.project
 
 bin
