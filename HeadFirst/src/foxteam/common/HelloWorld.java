@@ -1,5 +1,5 @@
-/**
- * 
+/*
+  Try Java
  */
 package foxteam.common;
 
@@ -10,15 +10,15 @@ package foxteam.common;
 public class HelloWorld {
 
 	/**
-	 * @param args
+	 * @param args å‘½ä»¤è¡Œå‚æ•°
 	 */
 	public static void main(String[] args) {
 		int i = 4;
 		double j = 5;	
 		
-		System.out.print("ÓÃprintÊä³öi:" + i);
-		System.out.println("ÓÃprintlnÊä³öi:" + i);
-		System.out.printf("iµÄÖµÎª%d,jµÄÖµÎª%f", i, j);
+		System.out.print("ç”¨printè¾“å‡ºi:" + i);
+		System.out.println("ç”¨printlnè¾“å‡ºi:" + i);
+		System.out.printf("içš„å€¼ä¸º%d,jçš„å€¼ä¸º%f", i, j);
 	}
 
 }
